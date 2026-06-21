@@ -2,7 +2,7 @@
 Simple 2D game
 
 Wymagania:
-SFML 3
+SFML 3 ,
 clang++
 
 Budowanie:
@@ -15,7 +15,7 @@ clang++ -std=c++17 Space_Dilivery_Adventure.cpp \
   -o Space_Delivery
 
 Controls:
-Kierunek lotu za pomocą myszy
-Lewy przycisk dla przyspieszenia
-'R' - Restart
-'Esc' - Escape
+Kierunek lotu za pomocą myszy , 
+Lewy przycisk dla przyspieszenia , 
+'R' - Restart , 
+'Esc' - Escape , 
