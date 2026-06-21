@@ -110,13 +110,13 @@ const float Pi = 3.14159265358979323846f;
 const float TwoPi = Pi * 2.0f;
 const float MaxFuel = 100.0f;
 const float CargoFuelReward = 45.0f;
-const float PlanetGravityDensity = 10.56f;
+const float PlanetGravityDensity = 10.5f;
 const float FuelBurnRate = 16.0f;
 const float TurnFuelBurnRate = 1.45f;
 const float TurnSpeedRadians = 3.8f;
 const float shipAcceleration = 138.0f;
 const float MaxShipSpeed = 285.0f;
-const float speedDicreaseRate = 0.994f;
+const float speedDicreaseRate = 0.995f;
 
 VideoMode makeVideoMode(unsigned width, unsigned height)
 {
